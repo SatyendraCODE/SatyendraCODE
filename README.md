@@ -24,6 +24,7 @@ I'm constantly learning and improving my skills in:
 <code><img height="20" alt="typescript" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>
 <code><img height="20" alt="react" src="https://repository-images.githubusercontent.com/410214337/070f2aba-d9d6-4699-b887-9a0f29015b1b"></code>
 <code><img height="20" alt="Html" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"></code>   
+<code><img height="20" alt="Css" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCBJ8fz6KNK6Ut3df5khikEAXIkhoquFuFgw"></code>   
 
 <!--
 **SatyendraCODE/SatyendraCODE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
