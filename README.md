@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/satyendrasinh-chauhan-1b3ab4193)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=flat-square&logo=github)](https://github.com/SatyendraCODE)
-[![Email](https://img.shields.io/badge/Email-Connect-blue?style=flat-square&logo=email)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-Connect-red?style=flat-square&logo=email)](satyendra.code.pro@gmail.com)
 
 Welcome to my GitHub profile! I'm a passionate [your profession/interest] and love to work on exciting projects. Here's a brief overview of what you'll find in my repositories:
 
