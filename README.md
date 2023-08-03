@@ -4,21 +4,21 @@
 [![Email](https://img.shields.io/badge/Email-Contact-white?style=flat-square&logo=gmail)](mailto:satyendra.code.pro@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=flat-square&logo=github)](https://github.com/SatyendraCODE)
 
-Welcome to my GitHub profile! I'm a passionate [your profession/interest] and love to work on exciting projects. Here's a brief overview of what you'll find in my repositories:
+Welcome to my GitHub profile! I'm a passionate software engineer and love to work on exciting projects. Here's a brief overview of what you'll find in my repositories:
 
 ## 🔭 Current Projects
 
-- [Project 1](https://github.com/yourusername/project1): Short description of the project.
-- [Project 2](https://github.com/yourusername/project2): Short description of the project.
-- ...
+- [Project 1](https://github.com/SatyendraCODE/hotstar_clone): This is clone of official "Hotstar" web app using React.js
 
+  
 ## 🌱 Learning
 
 I'm constantly learning and improving my skills in:
 
-- Technology 1
-- Technology 2
-- ...
+- React.js
+- Typescript / Javascript
+- Frontend
+- node.js(not yet but learning indirectly)
 
 
 <!--
