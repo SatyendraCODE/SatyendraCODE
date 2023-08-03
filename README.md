@@ -3,6 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/satyendrasinh-chauhan-1b3ab4193)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:satyendra.code.pro@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-white?style=flat-square&logo=github)](https://github.com/SatyendraCODE)
+##  About me
 
  📒 React.js internship at [TOPS Technologies](https://www.tops-int.com/it-training-sg-road) 6-month <br>
  
