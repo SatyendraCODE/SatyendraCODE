@@ -6,6 +6,10 @@
 
 Welcome to my GitHub profile! I'm a passionate software engineer and love to work on exciting projects. Here's a brief overview of what you'll find in my repositories:
 
+💼 Intern in FrontEnd Engineer at [Dolphin Web Solution](https://dolphinwebsolution.com/)
+
+💬 Ask me about anything [here](https://github.com/SatyendraCODE/SatyendraCODE/issues)
+
 ## 🔭 Current Projects
 
 - [Hotstar clone](https://github.com/SatyendraCODE/hotstar_clone) : React.js re-creation of official "Hotstar" web app using React.js
@@ -26,6 +30,7 @@ I'm constantly learning and improving my skills in:
 <code><img height="40" alt="Html" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/768px-HTML5_Badge.svg.png"></code>   
 <code><img height="40" alt="Css" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCBJ8fz6KNK6Ut3df5khikEAXIkhoquFuFgw"></code>   
 
+ | <a href="https://github.com/SatyendraCODE/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
 <!--
 **SatyendraCODE/SatyendraCODE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
