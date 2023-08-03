@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer and love to wor
 
 ## 🔭 Current Projects
 
-- [Hotstar clone](https://github.com/SatyendraCODE/hotstar_clone) : This is clone of official "Hotstar" web app using React.js
+- [Hotstar clone](https://github.com/SatyendraCODE/hotstar_clone) : React.js re-creation of official "Hotstar" web app using React.js
 
   
 ## 🌱 Learning
