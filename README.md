@@ -8,9 +8,9 @@ Welcome to my GitHub profile!<br> I'm a passionate software engineer and love to
 
 ##  About me
 
-- 📒 React.js internship at [TOPS Technologies](https://www.tops-int.com/it-training-sg-road) 6-month
+- 📒 React.js internship at [TOPS Technologies](https://www.tops-int.com/it-training-sg-road) (6-month)
  
-- 💼 Intern in FrontEnd Engineer at [Dolphin Web Solution](https://dolphinwebsolution.com/) 2-month
+- 💼 Currently intern in FrontEnd Engineer at [Dolphin Web Solution](https://dolphinwebsolution.com/) (2-month)
  
 - 💬 Ask me about anything [here](https://github.com/SatyendraCODE/SatyendraCODE/issues)
 
