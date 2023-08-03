@@ -4,9 +4,9 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:satyendra.code.pro@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-white?style=flat-square&logo=github)](https://github.com/SatyendraCODE)
 
- 📒 React.js internship at [TOPS Technologies](https://www.tops-int.com/it-training-sg-road) 6-month
- 💼 Intern in FrontEnd Engineer at [Dolphin Web Solution](https://dolphinwebsolution.com/) 2-month
- 💬 Ask me about anything [here](https://github.com/SatyendraCODE/SatyendraCODE/issues)
+ 📒 React.js internship at [TOPS Technologies](https://www.tops-int.com/it-training-sg-road) 6-month <br>
+ 💼 Intern in FrontEnd Engineer at [Dolphin Web Solution](https://dolphinwebsolution.com/) 2-month<br>
+ 💬 Ask me about anything [here](https://github.com/SatyendraCODE/SatyendraCODE/issues)<br>
 
 Welcome to my GitHub profile! I'm a passionate software engineer and love to work on exciting projects. Here's a brief overview of what you'll find in my repositories:
 
