@@ -1,9 +1,8 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Satyendrasinh Chauhan 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourusername/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://twitter.com/yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=flat-square&logo=github)](https://github.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=firefox)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/satyendrasinh-chauhan-1b3ab4193)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=flat-square&logo=github)](https://github.com/SatyendraCODE)
+[![Email](https://img.shields.io/badge/Email-Connect-blue?style=flat-square&logo=email)](https://yourportfolio.com)
 
 Welcome to my GitHub profile! I'm a passionate [your profession/interest] and love to work on exciting projects. Here's a brief overview of what you'll find in my repositories:
 
