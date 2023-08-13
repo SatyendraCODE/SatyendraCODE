@@ -8,7 +8,7 @@ Welcome to my GitHub profile!<br> I'm a passionate software engineer and love to
 
 ##  About me
 
-- 💼 Currently intern in React.js Developer at [Dolphin Web Solution](https://dolphinwebsolution.com/) ~(2-month)
+- 💼 Currently intern(React.js Developer) at [Dolphin Web Solution](https://dolphinwebsolution.com/) ~(2-month)
 
 - 📒 React.js internship at [TOPS Technologies](https://www.tops-int.com/it-training-sg-road) ~(6-month) 
  
