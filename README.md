@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:satyendra.code.pro@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-white?style=flat-square&logo=github)](https://github.com/SatyendraCODE)
 
-Welcome to my GitHub profile!<br> I'm a passionate software engineer and love to work on exciting projects.<br> I'm available to collaborate. Easy to intrect trust me(😁😁😁).
+Welcome to my GitHub profile!<br> I'm a passionate software engineer and love to work on exciting projects. I'm available to collaborate. Easy to intrect trust me(😁😁😁).
 
 ##  About me
 
