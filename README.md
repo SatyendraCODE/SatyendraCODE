@@ -11,7 +11,7 @@ Building scalable, performance-focused web applications 🚀
 
 ## 👨‍💻 About Me
 
-I’m a **Full-Stack Software Engineer** with **2+ years of hands-on experience** building real-world, production-grade applications using the **MERN stack**.
+I’m a **Full-Stack Software Engineer** with **3+ years of hands-on experience** building real-world, production-grade applications using the **MERN stack**.
 
 Currently, I work at **Confiance Business Solutions** as a **Software Engineer (Full Stack)**, where I focus on:
 - Frontend architecture & performance optimization
@@ -38,7 +38,7 @@ I enjoy solving problems that require **ownership, clean architecture, and perfo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40"/>
 </p>
 
@@ -73,14 +73,6 @@ I enjoy solving problems that require **ownership, clean architecture, and perfo
 - ⚛️ **Co-Founder & Organizer** — React Ahmedabad  
 
 I actively help grow the local developer community through meetups and knowledge sharing.
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyendraCODE&layout=compact&theme=dark&hide_border=true" />
-</p>
 
 ---
 
